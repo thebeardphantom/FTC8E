@@ -1,2 +1,4 @@
-# FTC8E
-First Timer's Chip 8 Emulator
+# FTGBE
+First Timer's GameBoy Emulator
+
+I definitely don't own SDL.
